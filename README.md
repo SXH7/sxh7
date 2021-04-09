@@ -14,7 +14,10 @@ I know how to code in python and I'm learning c++ at the moment.<br>
 
 [<img align = 'left' alt = 'Reddit' width = '30px' src = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F02%2Freddit-logo-16.png&f=1&nofb=1' >][reddit]
 
+[<img align = ';eft' alt = 'Instagram' width = '30px' src = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe7%2FInstagram_logo_2016.svg%2F1200px-Instagram_logo_2016.svg.png&f=1&nofb=1'>][instagram]
+
 
 
 [discord]: https://discord.bio/p/sxsenpai
 [reddit]: https://www.reddit.com/user/shashwat_senpai
+[instagram]: https://www.instagram.com/anti.simp_shashwat/
