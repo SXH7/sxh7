@@ -9,4 +9,3 @@ Hello! I am Shashwat Singh, a 16 year old from India.
   I know how to code in python and I'm learning c++ at the moment.<br>
 </details>
 
-Message me on discord @sXsenpai#9126!
