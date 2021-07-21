@@ -8,7 +8,7 @@
 <img align='left' alt='aboutme' width='70%' src='https://cdn.discordapp.com/attachments/681786753547632790/867315292539191296/qiewugwiubge.png'>
 </p>
 
-<br/>
+<br />
 
 ### Connect with Me
 
