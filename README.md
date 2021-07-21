@@ -15,7 +15,9 @@
 # Languages and Tools 🛠:
 
 ### <p align='center'> Languages </p>
+<p align='center'> 
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'> <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+</p>
 
 ### Libraries and Frameworks
 <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white'> <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'> <img src='https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white'> <img src='https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white'> 
