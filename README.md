@@ -45,7 +45,7 @@
 </br>
 
 
-<p align='center'> [<img align='center' alt='socials' width='45%' src='https://cdn.discordapp.com/attachments/681786753547632790/867374655992365066/socials.png'>](https://linktr.ee/SXH7) </p>
+<p align='center'> [<img alt='socials' width='45%' src='https://cdn.discordapp.com/attachments/681786753547632790/867374655992365066/socials.png'>](https://linktr.ee/SXH7) </p>
 
 
 </br>
