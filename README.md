@@ -12,6 +12,9 @@
 ・Watching Anime/Reading Manga </br>
 ・Reading Novels </br>
 
+# Languages and Tools 🛠:
+
+
 # Socials:
 
 Wanna talk to me about anything? Feel free to message me.
@@ -19,8 +22,6 @@ Wanna talk to me about anything? Feel free to message me.
 </br>
 [<img align='left' alt='socials' width='45%' src='https://cdn.discordapp.com/attachments/681786753547632790/867374655992365066/socials.png'>](https://linktr.ee/SXH7)
 
-
 </br>
 
 
-# Languages and Tools 🛠:
