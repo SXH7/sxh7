@@ -1,6 +1,6 @@
 ## Hello There 👋!
 
-<p align='left', width='100%'>
+<p align='center', width='100%'>
 Hello! I am Shashwat Singh, a 16 year old from India.
 </p>
                         
