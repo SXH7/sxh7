@@ -17,5 +17,7 @@
 
 Wanna talk to me about anything? Feel free to message me.
 </br>
+</br>
+</br>
 [<img align='left' alt='socials' width='35%' src='https://cdn.discordapp.com/attachments/681786753547632790/867374655992365066/socials.png'>](https://linktr.ee/SXH7)
 
