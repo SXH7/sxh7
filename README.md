@@ -9,6 +9,6 @@
 **I code in Python and know basic c++. I'm also intrested in graphic designing, I make random edits/graphics which look good(or atleast try to lmao).**
 
 ### Hobbies
-・Watching Anime/Reading Manga
+・Watching Anime/Reading Manga </br>
 ・Reading Novels
 
