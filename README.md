@@ -1,4 +1,4 @@
-## ~Hello There 👋!~
+## Hello There 👋!
 
 Hello! I am Shashwat Singh, a 16 year old from India.
 <br>
