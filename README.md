@@ -4,11 +4,11 @@
 
 
 <p align='center', width='100%'>
-<img align='left' alt='image' width='10%' src='https://media.discordapp.net/attachments/681786753547632790/867316370223792148/synth.png?width=308&height=473'>
+<img align='left' alt='image' width='30%' src='https://media.discordapp.net/attachments/681786753547632790/867316370223792148/synth.png?width=308&height=473'>
 <img align='left' alt='aboutme' width='70%' src='https://cdn.discordapp.com/attachments/681786753547632790/867315292539191296/qiewugwiubge.png'>
 </p>
 
-
+<br>
 ### Connect with Me
 
 [<img align = 'left' alt = 'Discord' width = '30px' src = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwheretoinvest.money%2Fwp-content%2Fuploads%2F2017%2F12%2Fdiscord-logo-1024x1024.png&f=1&nofb=1' />][discord]
