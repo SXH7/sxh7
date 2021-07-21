@@ -3,15 +3,8 @@
 </p>
                                                                                                                                           
 <p align='center', width='100%'>
-Hello! I am Shashwat Singh, a 16 year old from India.
+<img align='left' alt='aboutme' width='100%' src='https://cdn.discordapp.com/attachments/681786753547632790/867315292539191296/qiewugwiubge.png'>
 </p>
-                        
-<br>
-
-I like programming, watching anime and reading novels. <br>
-I know how to code in python and I'm learning c++ at the moment.<br>
-<br>
-
 
 
 ### Connect with Me
