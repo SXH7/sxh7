@@ -4,5 +4,5 @@
 
 
 # About Me 🧑:
-## Hello! I am Shashwat Singh, you might also know me as "SX". I'm a 17 year old programmer from India.
+### Hello! I am Shashwat Singh, you might also know me as "SX". I'm a 17 year Indian programmer.
 
