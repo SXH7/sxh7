@@ -1,7 +1,8 @@
 ## Hello There 👋!
-<p align='center>
+<p align='center'>
 <img align='center' alt='welcome' width='70%' src='https://cdn.discordapp.com/attachments/681786753547632790/867268836280500224/Retro.png'>
-
+</p>
+                                                                                                                                          
 <p align='center', width='100%'>
 Hello! I am Shashwat Singh, a 16 year old from India.
 </p>
