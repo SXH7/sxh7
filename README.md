@@ -2,7 +2,7 @@
 
 <p align='center', width='100%'>
 Hello! I am Shashwat Singh, a 16 year old from India.
-</p>
+
                         
 <br>
 
@@ -10,7 +10,7 @@ I like programming, watching anime and reading novels. <br>
 I know how to code in python and I'm learning c++ at the moment.<br>
 <br>
 
-
+</p>
 
 ### Connect with Me
 
