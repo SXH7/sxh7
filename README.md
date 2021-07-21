@@ -10,7 +10,7 @@
 
 ### Hobbies:
 ・Watching Anime/Reading Manga </br>
-・Reading Novels
+・Reading Novels </br>
 ・Playing Football
 
 # Socials:
