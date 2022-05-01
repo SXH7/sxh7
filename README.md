@@ -6,7 +6,7 @@
 # About Me 🧑:
 ### Hello! I am Shashwat Singh, you might also know me as SX. I'm a 17 year Indian AI and Machine Learning enthusiast.
 
-**I code in Python and know c++ and javascript.**
+**I code in Python and know c++ and javascript/nodejs.**
 
 ### Hobbies:
 ・Watching Anime/Reading Manga </br>
