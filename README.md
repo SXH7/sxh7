@@ -11,8 +11,8 @@
 ### Hobbies:
 ・Watching Anime/Reading Manga </br>
 ・Reading Novels </br>
-・Watching Movies
-・Running
+・Watching Movies<br>
+・Running<br>
 
 # Languages and Tools 🛠:
 
