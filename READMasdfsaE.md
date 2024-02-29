@@ -8,6 +8,6 @@ I use VSCode for most of my coding and I'm the most familiar with the Godot game
 
 <br>
 ![sxh7's Stats](https://github-readme-stats.vercel.app/api?username=sxh7&show_icons=true&theme=synthwave)
-<br>
+
 
 If you would like to contact me for any reason (even a casual conversation :>) please feel free to do so on Discord @sxh7, please just make it clear that you found me on Github.
