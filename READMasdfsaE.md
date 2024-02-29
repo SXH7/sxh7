@@ -1,8 +1,9 @@
 <p align='center'>
 </p>
+## About Me
 
-Hello! I am Shashwat Singh, you might also know me as SX. I'm a 18 year Indian AI and Machine Learning enthusiast.
-I code in Python and c++ and have basic knowledge of javascript/node.js and java.
+Hello! I am Shashwat, a student pursuing a B.Sc degree in Mathematical Science from DU and an online BS degree in Machine Learning from IIT Madras.
+
 
 
 
