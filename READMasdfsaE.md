@@ -6,7 +6,7 @@ I am interested in AI/ML and GameDev.
 My languages of choice are Python and C++ however I usually learn whatever I need to on a project basis.
 I use VSCode for most of my coding and I'm the most familiar with the Godot game engine.
 
-<br>
+
 ![sxh7's Stats](https://github-readme-stats.vercel.app/api?username=sxh7&show_icons=true&theme=synthwave)
 
 
